@@ -11,13 +11,18 @@ and experiment tracking**.
 air-tickets-ml/
 │
 ├── data/ # raw and processed datasets (not pushed to GitHub if large)
+
 ├── notebooks/ # Jupyter notebooks for EDA, modeling, tuning
+
 │ ├── 01_eda.ipynb
 │ ├── 02_feature_engineering.ipynb
 │ ├── 03_modeling.ipynb
 │ └── 04_tuning.ipynb
+
 ├── src/ # reusable Python scripts
+
 ├── README.md # project overview
+
 └── requirements.txt # Python dependencies
 
 
