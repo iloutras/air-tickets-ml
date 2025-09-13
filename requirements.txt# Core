@@ -1,0 +1,24 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Gradient Boosting Models
+xgboost
+lightgbm
+catboost
+
+# Hyperparameter Tuning
+optuna
+
+# Experiment Tracking
+mlflow
+
+# Jupyter Notebooks
+jupyter
+notebook
+
